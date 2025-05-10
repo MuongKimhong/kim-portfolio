@@ -2,7 +2,7 @@
   <v-container class="mt-6">
     <!-- <v-row align="center" justify="center" style="height: 100%">
       <v-col cols="auto">
-        
+
       </v-col>
     </v-row> -->
     <div class="text-center mb-5">
@@ -11,6 +11,10 @@
 
     <h1 class="text-black text-center">Mr. Kim Muong</h1>
     <p class="text-black text-center">
+      Currently building
+      <a href="https://github.com/MuongKimhong/famiq" target="_blank">Famiq</a>.
+    </p>
+    <p class="text-black text-center mt-2">
       Passionate about clean code, performance, and building tools.
     </p>
 

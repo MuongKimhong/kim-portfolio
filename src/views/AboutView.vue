@@ -38,6 +38,10 @@
         <i class="fab fa-github mr-1"></i>github.com/MuongKimhong
       </span>
       <span class="mx-1"> | </span>
+      <span class="contact" @click="onLinkedInClick">
+        <i class="fab fa-linkedin mr-1"></i>LinkedIn
+      </span>
+      <span class="mx-1"> | </span>
       <span class="contact" @click="onResumeClick"
         ><i class="fas fa-file mr-1"></i>Resume</span
       >
@@ -64,6 +68,10 @@ export default {
 
     onResumeClick: function () {
       window.open("/KimMuong-Resume.pdf", "_blank");
+    },
+
+    onLinkedInClick: function () {
+      window.open("https://www.linkedin.com/in/muong-kimhong", "_blank");
     },
   },
 };

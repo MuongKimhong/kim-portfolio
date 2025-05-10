@@ -8,9 +8,9 @@ import { createVuetify } from "vuetify";
 const customTheme = {
   dark: false,
   colors: {
-    background: "#a2a2a2",
-    surface: "#a2a2a2",
-    "surface-bright": "#a2a2a2",
+    background: "c2c2c2",
+    surface: "c2c2c2",
+    "surface-bright": "c2c2c2",
     "surface-light": "#EEEEEE",
     "surface-variant": "#424242",
     "on-surface-variant": "#EEEEEE",
